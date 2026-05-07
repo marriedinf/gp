@@ -1,0 +1,14 @@
+#EXTM3U
+#EXT-X-VERSION:6
+#EXT-X-TARGETDURATION:4
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXTINF:4.004000,
+f9gmgo71y3q95nahcho96ker2d5h0ztv.png
+#EXTINF:4.004000,
+3kyuhw0iuy0jaq19t0kvzow5y4h1uqt9.png
+#EXTINF:4.004000,
+mohxrhr84lqpbasebjeukeixooadkumf.png
+#EXTINF:2.268933,
+730q6ok2dl753rotao498wicjqllmlu7.png
+#EXT-X-ENDLIST
